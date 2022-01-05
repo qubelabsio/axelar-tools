@@ -25,6 +25,7 @@ wget https://raw.githubusercontent.com/qubelabsio/axelar-tools/main/rpc.sh
 chmod +x rpc.sh
 ./rpc.sh
 ```
+Use CTRL+B D to detach from tmux session.
 
 Once the script starts, follow the instructions and enter your RPC details (IP:PORT or URL), minutes (default 5) and Telegram token (optional).
 
