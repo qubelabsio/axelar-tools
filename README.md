@@ -5,6 +5,7 @@ With this tool you can input your external_chain RPC endpoints and have the scri
 - RPC Endpoint Check
 - Custom Timing
 - Telegram Notifications
+- Support for Polygon, Moonbeam, Ethereum, Avalanche, Fantom.
 
 ## Installation
 
